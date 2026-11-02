@@ -1,0 +1,6 @@
+accession_id,common_name,selected_observation_id,day,tested,sprouted,percent,minimum_percent,outcome
+AC-BLU,Blue camas,OB-1004,5,10,5,50,60,FAIL
+AC-ALP,Alpine flax,OB-1002,5,20,15,75,70,PASS
+AC-DUN,Dune pea,OB-1009,9,12,6,50,50,PASS
+AC-CED,Cedar sedge,,,,,,80,RETEST
+AC-ELM,Elm grass,OB-1010,5,20,14,70,75,FAIL
